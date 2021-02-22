@@ -5,3 +5,4 @@
  Initially, Paypal's stock performance was analyzed using SQL queries to a database containing historical price data for the stocks. 
  Subsequently, the SQL queries are improved/optimized. 
  
+I have also added a couple of screenshots of the application running via Voila, in the local host. (trying to add pics to the readme)
